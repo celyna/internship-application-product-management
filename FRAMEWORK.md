@@ -1,4 +1,4 @@
-<h1><b> Roadmap </b> </h1>
+<h1><b> Framework </b> </h1>
 1. Jump straight into the gaming industry and its market
  <pre>
  * Activision Blizzard and its games, research everything
