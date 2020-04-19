@@ -15,5 +15,6 @@
  * Product strategy + goals
  * Development + testing stages
  * Release and what to do after
- * Never forget about your customers! </pre>
+ * Never forget about your customers! 
+ * Perhaps an IDEO approach </pre>
 <i>let's get ittttt </i>
